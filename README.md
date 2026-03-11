@@ -83,11 +83,11 @@ Linux
 Vim
 
 📊 GitHub Statistics
-<div align="center"> <!-- GitHub Stats --> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/> <!-- Most Used Languages --> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8"/></div><div align="center"> <!-- GitHub Streak --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F"/></div><div align="center"> <!-- Trophy --> <img src="https://github-profile-trophy.vercel.app/?username=你的用户名&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/></div>
+<div align="center"> <!-- GitHub Stats --> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lem0npieee&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/> <!-- Most Used Languages --> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lem0npieee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8"/></div><div align="center"> <!-- GitHub Streak --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lem0npieee&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F"/></div><div align="center"> <!-- Trophy --> <img src="https://github-profile-trophy.vercel.app/?username=Lem0npieee&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/></div>
 📈 Contribution Graph
-<div align="center"> <!-- Activity Graph --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&theme=react-dark&hide_border=true&area=true"/></div>
+<div align="center"> <!-- Activity Graph --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lem0npieee&theme=react-dark&hide_border=true&area=true"/></div>
 🐍 Contribution Snake
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-snake.svg" /> </picture></div>
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lem0npieee/Lem0npieee/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lem0npieee/Lem0npieee/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/Lem0npieee/Lem0npieee/output/github-snake.svg" /> </picture></div>
 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 文章标题1
@@ -99,7 +99,7 @@ Vim
 ➡️ 查看更多博客文章...
 
 🏆 Achievements
-<details> <summary>📊 Detailed GitHub Stats</summary> <br><div align="center"> <!-- Detailed Stats --> <img src="https://metrics.lecoq.io/你的用户名?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&isocalendar=1&habits=1&followup=1&code=1&activity=1&repositories=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&followup=false&followup.sections=repositories&followup.indepth=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public"/></div></details>
+<details> <summary>📊 Detailed GitHub Stats</summary> <br><div align="center"> <!-- Detailed Stats --> <img src="https://metrics.lecoq.io/Lem0npieee?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&isocalendar=1&habits=1&followup=1&code=1&activity=1&repositories=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&followup=false&followup.sections=repositories&followup.indepth=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public"/></div></details>
 💼 Work Experience
 YAML
 
@@ -162,11 +162,6 @@ Ko-Fi
 </div>
 <div align="center">
 🎯 "代码改变世界，开源连接你我"
-⭐️ From 你的用户名
+⭐️ From Lem0npieee
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/></div> 
-
-## ⏱️ Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
