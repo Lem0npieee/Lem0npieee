@@ -1,3 +1,11 @@
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lem0npieee/Lem0npieee/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lem0npieee/Lem0npieee/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lem0npieee/Lem0npieee/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 # Hi, I'm Lem0npieee
 
 ---
@@ -31,25 +39,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
 
-## 3. 我在做什么
-
-- 用 C++/Python 刷题，强化算法与编码稳定性
-- 做 2-3 个可展示的项目（含部署、文档、测试）
-- 学习后端性能优化与常见系统设计题
-
----
-
-## 4. 项目展示（建议替换为真实项目）
-
-| 项目 | 简介 | 技术栈 |
-| --- | --- | --- |
-| Campus Helper API | 校园信息聚合与查询服务 | FastAPI + MySQL + Redis |
-| Interview Tracker | 面试题管理与复盘系统 | React + Node.js + PostgreSQL |
-| OJ Practice Kit | 算法题训练与统计脚本 | Python + Pandas + Matplotlib |
-
----
 
 ## 5. GitHub 数据
 
