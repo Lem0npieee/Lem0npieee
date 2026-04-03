@@ -1,15 +1,13 @@
 # Hi, I'm Lem0npieee
 
-计算机专业本科生 | 后端与全栈方向 | 正在准备高质量实习
-
 ---
 
 ## 1. 关于我
 
 - 学校/专业: Computer Science
-- 当前重心: 数据结构与算法、工程化能力、项目落地
-- 技术兴趣: Backend, System Design, AI 应用开发
-- 2026 目标: 拿到满意实习 + 构建可持续输出的技术博客
+- 当前重心: 机器学习、具身智能
+- 技术兴趣: AI 应用开发
+- 2026 目标: 上岸 + 实习
 
 ---
 
@@ -65,7 +63,7 @@
 ## 6. 联系方式
 
 - GitHub: https://github.com/Lem0npieee
-- Email: your.email@example.com
+- Email: dingzr@mail2.sysu.edu.cn
 - Blog: https://lem0npieee.github.io/
 
 ---
