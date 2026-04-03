@@ -1,3 +1,9 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=Keep+shipping.+Keep+learning.)](https://git.io/typing-svg)
+
+</div>
+
 # Hi, I'm Lem0npieee
 
 <picture>
@@ -9,7 +15,7 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 ---
 
-## 1. 关于我
+## 关于我
 
 - 学校/专业: Computer Science
 - 当前重心: 机器学习、具身智能
@@ -18,43 +24,19 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ---
 
-## 2. 技术栈
-
-**语言**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-
-**开发框架与工具**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-
-
-## 5. GitHub 数据
+## 技术栈
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lem0npieee&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lem0npieee&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lem0npieee&theme=github" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lem0npieee&theme=github" />
 </div>
 
----
 
-## 6. 联系方式
+
+## 联系方式
 
 - GitHub: https://github.com/Lem0npieee
 - Email: dingzr@mail2.sysu.edu.cn
 - Blog: https://lem0npieee.github.io/
 
 ---
-
-> Keep shipping. Keep learning.
